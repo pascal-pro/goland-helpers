@@ -11,3 +11,7 @@
 2. to solve the character replacement in shortcuts: ≠ instead of != 
     * `File` > `Settings` >  `Editor` > `Reader Mode`
     * disable `font ligatures`
+  
+3. To see the correct color in the termnal console :
+
+   `disabled pty mode: Ctrl+Shift+A | Registry | go.run.processes.with.pty`
